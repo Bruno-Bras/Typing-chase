@@ -171,16 +171,6 @@ Os arquivos de **código** deste repositório foram desenvolvidos pelo autor. M�
 
 ---
 
-## Próximos passos
-
-- [ ] Registrar métricas de gameplay (distância, combo, acertos/erros, duração) e exportar para CSV
-- [ ] Análise dos dados de partida em notebook (Pandas/Seaborn) e dashboard em Power BI
-- [ ] Tela de estatísticas por jogador dentro do jogo
-- [ ] Testes automatizados para as regras de colisão e spawn
-- [ ] Empacotar executável com PyInstaller
-
----
-
 ## Autor
 
 **Bruno Brás Barros**
